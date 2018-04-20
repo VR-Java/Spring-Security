@@ -1,5 +1,6 @@
 package com.softserve.edu.jwtsecurity.user;
 
+import org.springframework.context.annotation.Bean;
 import org.springframework.security.core.userdetails.User;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
